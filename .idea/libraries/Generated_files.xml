@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/test/bower_components/zepto/zepto.min.min.js" />
+        <item url="file://$PROJECT_DIR$/test/config.min.js" />
+        <item url="file://$PROJECT_DIR$/test/calendar.min.js" />
+        <item url="file://$PROJECT_DIR$/test/bower_components/zepto/zepto.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/test/bower_components/zepto/zepto.min.min.js" />
+      <root url="file://$PROJECT_DIR$/test/config.min.js" />
+      <root url="file://$PROJECT_DIR$/test/calendar.min.js" />
+      <root url="file://$PROJECT_DIR$/test/bower_components/zepto/zepto.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
