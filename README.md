@@ -2,6 +2,7 @@
 seajs模块的日历控件
 
 主要实现：
+<pre>
     _getTds: function(y, m) {
         // 日历主体部分
         var date = new Date(y, m, 1);
@@ -35,4 +36,5 @@ seajs模块的日历控件
                 tds = ['<tr>'];
             }
         }
-    },
+    }
+</pre>
